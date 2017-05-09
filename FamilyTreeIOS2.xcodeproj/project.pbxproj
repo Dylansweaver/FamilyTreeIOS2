@@ -14,6 +14,14 @@
 		00719DE41EC140D3005DBBD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00719DE21EC140D3005DBBD6 /* LaunchScreen.storyboard */; };
 		00719DEF1EC140D3005DBBD6 /* FamilyTreeIOS2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719DEE1EC140D3005DBBD6 /* FamilyTreeIOS2Tests.swift */; };
 		00719DFA1EC140D3005DBBD6 /* FamilyTreeIOS2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719DF91EC140D3005DBBD6 /* FamilyTreeIOS2UITests.swift */; };
+		00719E081EC16130005DBBD6 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E071EC16130005DBBD6 /* ViewController2.swift */; };
+		00719E0A1EC16139005DBBD6 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E091EC16139005DBBD6 /* ViewController3.swift */; };
+		00719E0C1EC16141005DBBD6 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E0B1EC16141005DBBD6 /* ViewController4.swift */; };
+		00719E0E1EC16149005DBBD6 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E0D1EC16149005DBBD6 /* ViewController5.swift */; };
+		00719E101EC16155005DBBD6 /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E0F1EC16155005DBBD6 /* ViewController6.swift */; };
+		00719E121EC1615D005DBBD6 /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E111EC1615D005DBBD6 /* ViewController7.swift */; };
+		00719E141EC16166005DBBD6 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E131EC16166005DBBD6 /* ViewController8.swift */; };
+		00719E161EC1616E005DBBD6 /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00719E151EC1616E005DBBD6 /* ViewController9.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		00719DF51EC140D3005DBBD6 /* FamilyTreeIOS2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FamilyTreeIOS2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00719DF91EC140D3005DBBD6 /* FamilyTreeIOS2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyTreeIOS2UITests.swift; sourceTree = "<group>"; };
 		00719DFB1EC140D3005DBBD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00719E071EC16130005DBBD6 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		00719E091EC16139005DBBD6 /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		00719E0B1EC16141005DBBD6 /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		00719E0D1EC16149005DBBD6 /* ViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		00719E0F1EC16155005DBBD6 /* ViewController6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		00719E111EC1615D005DBBD6 /* ViewController7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
+		00719E131EC16166005DBBD6 /* ViewController8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
+		00719E151EC1616E005DBBD6 /* ViewController9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController9.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +116,14 @@
 				00719DD91EC140D3005DBBD6 /* AppDelegate.swift */,
 				00719DDB1EC140D3005DBBD6 /* ViewController.swift */,
 				00719DDD1EC140D3005DBBD6 /* Main.storyboard */,
+				00719E071EC16130005DBBD6 /* ViewController2.swift */,
+				00719E091EC16139005DBBD6 /* ViewController3.swift */,
+				00719E0B1EC16141005DBBD6 /* ViewController4.swift */,
+				00719E0D1EC16149005DBBD6 /* ViewController5.swift */,
+				00719E0F1EC16155005DBBD6 /* ViewController6.swift */,
+				00719E111EC1615D005DBBD6 /* ViewController7.swift */,
+				00719E131EC16166005DBBD6 /* ViewController8.swift */,
+				00719E151EC1616E005DBBD6 /* ViewController9.swift */,
 				00719DE01EC140D3005DBBD6 /* Assets.xcassets */,
 				00719DE21EC140D3005DBBD6 /* LaunchScreen.storyboard */,
 				00719DE51EC140D3005DBBD6 /* Info.plist */,
@@ -261,6 +285,14 @@
 			files = (
 				00719DDC1EC140D3005DBBD6 /* ViewController.swift in Sources */,
 				00719DDA1EC140D3005DBBD6 /* AppDelegate.swift in Sources */,
+				00719E161EC1616E005DBBD6 /* ViewController9.swift in Sources */,
+				00719E101EC16155005DBBD6 /* ViewController6.swift in Sources */,
+				00719E0A1EC16139005DBBD6 /* ViewController3.swift in Sources */,
+				00719E081EC16130005DBBD6 /* ViewController2.swift in Sources */,
+				00719E0E1EC16149005DBBD6 /* ViewController5.swift in Sources */,
+				00719E121EC1615D005DBBD6 /* ViewController7.swift in Sources */,
+				00719E0C1EC16141005DBBD6 /* ViewController4.swift in Sources */,
+				00719E141EC16166005DBBD6 /* ViewController8.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
